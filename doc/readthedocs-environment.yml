@@ -6,3 +6,4 @@ dependencies:
   - pandoc
   - nbconvert
   - ipykernel
+  - sphinx_rtd_theme
