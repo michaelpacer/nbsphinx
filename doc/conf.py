@@ -34,6 +34,9 @@ highlight_language = 'none'
 # Width of input/output prompts used in CSS:
 #nbsphinx_prompt_width = '8ex'
 
+# If True, the (executed) notebooks are copied into the HTML output directory:
+#nbsphinx_save_notebooks = True
+
 # -- The settings below this line are not specific to nbsphinx ------------
 
 master_doc = 'index'
